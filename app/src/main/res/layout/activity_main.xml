@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <!-- This is the layout displayed on the main activity portrait gridView-->
+
+    <FrameLayout
+        android:id="@+id/header_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:background="@color/colorPrimary">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:alpha="0.5"
+            android:src="@drawable/ic_tour_white"/>
+
+        <TextView
+            style="@style/text_view_portrait"
+            android:text="@string/header_text"
+            android:textColor="#FF0000" />
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:fillViewport="true">
+
+        <GridView
+            android:id="@+id/grid_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:padding="@dimen/margin_4"
+            android:drawSelectorOnTop="true"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="4dp"
+            android:horizontalSpacing="4dp"
+            android:numColumns="2">
+
+
+        </GridView>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal">
+
+
+        <TextView
+            style="@style/text_view_portrait"
+            android:drawableLeft="@drawable/krd"
+            android:drawableStart="@drawable/krd"
+            android:drawableRight="@drawable/krd"
+            android:drawableEnd="@drawable/krd"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="کوردی"
+            android:textColor="@color/opaque_white"
+            android:onClick="Kur"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal">
+
+
+        <TextView
+            style="@style/text_view_portrait"
+            android:drawableLeft="@drawable/uk"
+            android:drawableStart="@drawable/uk"
+            android:drawableRight="@drawable/uk"
+            android:drawableEnd="@drawable/uk"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="English"
+            android:textColor="@color/opaque_white"
+            android:onClick="Eng"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name" translatable="false">Duhok Tour</string>
+    <!-- string main activity -->
+    <string name="header_text">Duhok Tour</string>
+    <string name="footer_header">Kurdistan</string>
+    <!-- String detail activity -->
+    <string name="button_web">Web Site</string>
+</resources>

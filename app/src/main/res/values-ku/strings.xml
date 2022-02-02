@@ -1,0 +1,7 @@
+<resources>
+    <!-- string main activity -->
+    <string name="header_text">دهۆك</string>
+    <string name="footer_header">كوردستان</string>
+    <!-- String detail activity -->
+    <string name="button_web">وێب</string>
+</resources>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- done -->
+    <string-array name="categories1">
+        <item>Info</item>
+        <item>Hotels</item>
+        <item>Food</item>
+        <item>Places</item>
+        <item>History AND Heritage</item>
+        <item>Malls</item>
+    </string-array>
+
+
+    <string-array name="info_desc">
+        <item>Duhok</item>
+        <item>History</item>
+        <item>Society</item>
+        <item>Tourism</item>
+    </string-array>
+    <string-array name="info_desc_1">
+        <item>The city of Duhok is embraced by two chains of mountains, Bekhair to the north and northeast and Zaiwa in the southeast. These mountains confer the city a linear shape and special landscape. The city lies in the northwest of Iraq and western part of Kurdistan region, about 470 km north of Baghdad and 430–450 m above the sea level. Along with another five districts Sumeal, Zakho, Amedy, Sheikhan and Akre, Duhok city make up the area administrated by Duhok governorate. Duhok covers 10715 square km and lies on latitude 36 north and longitude 43 east. There are two rivers passing through the city; the first one is called Duhok River, whilst the second one which is smaller and seasonal called Heshkarow River. Both rivers meet up in the southwest of the city, and the water is mainly used for irrigation purposes which help preserving the nearby green areas.</item>
+        <item>Throughout the history to the present time Duhok has acquired a strategic position historically and geographically. The city was a trouble zone between disputed forces; Assyrian state in Nineveh and Urartu, Kutians and Meetanians Kingdoms. Nevertheless, Duhok has gained and maintained its identity as a commerce passage from its important location as a junction between Iraq, Turkey, and Syria and as a gateway for Iraqi Kurdistan. This is evident from reliable historic records and the existing remains in the city. Moreover, based upon the most acceptable theory, which further backup its identity, the name of Duhok is thought to be comprised of two words; (Du) means (two) and (Hok) means (lump) in Kurdish language. Two lumps was a notice of tax payment during the era of Prince Ak- Shindow in the reign of Nouzi Kingdom who ordered to take two lumps as a tax from the basket of each passing caravan that often carry wheat and barley.
+
+Duhok joined the Badinan Emirate during 14th-18th Century under the reign of Sultan Hassan Beck Bin AL- Emir Saifadeen, and it remained under the Emirate control until its collapse in 1842 AC. Afterwards, Duhok city joined Mousl Brigade during which Duhok territory was formed in 1873 AC when Mousl Brigade was overrun by the British army after the First World War. On 27th May 1969 Duhok Governorate was formed and the city became the center of Duhok governorate. There are numerous heritage sites across Duhok city that witness various periods of the city.
+
+The rural-urban migration and refugee returning over the last two decades caused the population records to grow significantly. For instance, the Anfal campaigns which was carried out against Kurds between 1978 and 1989 in different places of Iraqi Kurdistan deported thousands, killed more than 182,000 people and destroyed more than 2.000 villages. This population shifting has led to unplanned city expansion from its southern, western and eastern parts. The immigrants has settled mainly inside the city. People still retain and recall painful stories about the city\'s eventful history and incidents they went through during Saddam’s era for more than three decades. After 1991 uprising and the declaration of No Fly Zone in northern Iraq by the coalition forces the Iraqi Kurdistan region has functioned as a de facto state. Under the democratically elected KRG ruling, people are eagerly looking forward for optimum standards of living. In turn this explains why Iraqi Kurdistan, Duhok in particular, continue to be the most peaceful place all over the Iraq.
+</item>
+        <item>Tellingly, Duhok is a multi-culture and multi-religion city with a population of approximately 350000 inhabitants; which is 1/3 of the entire governorate population. Ethnically, Kurds form the majority, while groups of Assyrians, Chaldeans, Arabs and Armenians represent the minority. The dominant religion in Duhok is Islam with Sunni Moslem, but minorities of Iyzdi and Christian religions are also practiced.
+
+Duhok is characterized by many socioeconomic potentials, primarily due to its strategic location for trade and tourism, natural and cultural heritage, wide agricultural landscapes and farming background of their inhabitants. Despite all these vital resources they have not been used sufficiently an ample attention has been focused on highways, bridges, residential projects and basic infrastructures. In recognition of KRG efforts in the fields of reconstruction, investment and maintaining security, the commercial sector has flourished and Duhok is now considered as an important commercial center for Kurdistan region.</item>
+        <item>Duhok is well-known for its impressive  natural Landscape, and it is one of the most attracted area for  tourist where the residents can sense the four seasons. Duhok Dam, Zaweta, Sarsang, Amedy, Akre, Zakho and Sulav are the most important places that attract tourists.
+
+Duhok has rich ancient heritage and historical ruins which dates back to 705-681 BC. There are more than 42 archeological sites such as Grand Mosque , Old Bazar in the city center, Saint Ith Ilaha church, and Charstin, Shindokha and Hallamat caves.
+
+Finally, even though Duhok has seldom been the heading of investors and attempting to relocate itself as a modern city with vast reconstructions, commercial and educational  activities but it has been of prime historical values since long time. It is worth to mention that, after a great academic efforts and since February 2011, Amedy Castle has been included within the tentative list of UNESCO World Heritage Site paving the way for it to become the centre of proud Kurdish heritage landmark.</item>
+
+    </string-array>
+    <string-array name="info_web_1">
+        <item>http://bot.gov.krd/duhok-province</item>
+        <item>http://bot.gov.krd/duhok-province</item>
+        <item>http://bot.gov.krd/duhok-province</item>
+        <item>http://bot.gov.krd/duhok-province</item>
+    </string-array>
+
+    <!-- hotel done -->
+    <string-array name="title_name_1">
+        <item>DILSHAD PALAS</item>
+        <item>PARWAR HOTEL</item>
+        <item>SULAV HOTEL</item>
+        <item>SIRWAN HOTEL</item>
+        <item>AITUT HOTEL</item>
+        <item>BIRCIN HOTEL</item>
+        <item>ZOZEK HOTEL</item>
+        <item>SEGA HOTEL</item>
+        <item>SHAHEEN HOTEL</item>
+        <item>ROJ PALACE HOTEL
+</item>
+    </string-array>
+    <string-array name="address_1">
+        <item>Duhok Province</item>
+        <item>Duhok iraq</item>
+        <item>Duhok iraq</item>
+        <item>Duhok iraq</item>
+        <item>Duhok- Mazi Bridge - opposite Medical Association
+Duhok</item>
+        <item>Duhok - City Center St.
+Duhok</item>
+        <item>Duhok zakho</item>
+        <item>duhok - Zakho
+Zakho</item>
+        <item>Duhok - Zakho</item>
+        <item>Duhok - Mazi St.
+Duhok</item>
+    </string-array>
+    <string-array name="tel_1">
+        <item>964627227601</item>
+        <item>7508782424</item>
+        <item>964627221955</item>
+        <item>9647504504159 </item>
+        <item>9647503888461</item>
+        <item>964627228182</item>
+        <item>9647504502781</item>
+        <item>9647507770333</item>
+        <item>9647504723857</item>
+        <item>964627229971</item>
+    </string-array>
+    <string-array name="web_1">
+        <item>http://www.dilshad-palace.com</item>
+        <item>http://parwarhotel.com</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>http://www.roj-palacehotel.com</item>
+    </string-array>
+    <string-array name="desc_1">
+        <item>Services :
+Number of room : 96 Rooms
+Price : Single 165,000 , Double198,000 , Suite 495,000
+Lebanese restaurant offers Western and Eastern cuisine and bar  Grill Restaurant
+conference hall
+2 elevator
+Internet , Laundry ,sauna, swimming pool, Athletic Club-Business center-Parking</item>
+        <item>Services
+Number of room : 50 rooms
+Price : Single 60 $ , Double 120 $ , suite 220 $
+restaurant
+Meeting room- Internet- Laundry- VIP rooms - Parking</item>
+        <item>Services
+number of room : 40 rooms
+Prices : single40$ , Double 50$ , suite70$
+Cafeteria for Breakfast
+-Business
+-Ienternet .</item>
+        <item>Services
+Floor : 5
+number of Room : 19 Rooms
+Prices : single 30000 I.D , Double 50000 I.D , suite 90000 I.D
+internet</item>
+        <item>Services
+Number of room :58 rooms
+Price : Single 60000 I.D , double 90000 I.D , suite 120000 I.D
+restaurant - Cafeteria for Breakfast
+Parking</item>
+        <item>Services
+Number of room : 24 rooms
+Prices : Single 30000 I.D , Double 50000 I.D
+Cafeteria, Internet, Laundry
+Restaurant
+Morning breakfast</item>
+        <item>Services
+Number of room : 23 rooms
+Price : single 25 $ , Double 45 $</item>
+        <item>Services
+Number of room : 24 rooms
+Price : Single 25 $ , Double 40 $</item>
+        <item>Services
+Number of room : 34 rooms
+Price : single 20 $ , Double 40 $ , suite 50 $</item>
+        <item>Service
+number of Room : 45 Rooms
+Price: single 60000 ID-Double 70000 ID - suite 140000 ID
+restaurant Cafeteria
+business service, Internet</item>
+    </string-array>
+    <string-array name="item_name_1">
+        <item>from 59$/night 1 person</item>
+        <item>from 15$/night 2 person</item>
+        <item>from 29$/night 2 person</item>
+        <item>from 39$/night 1 person</item>
+        <item>from 14$/night 1 person</item>
+        <item>from 14$/night 2 person</item>
+        <item>from 79$/night 2 person</item>
+        <item>from 54$/night 2 person</item>
+        <item>from 35$/night 2 person</item>
+        <item>from 92$/night 1 person</item>
+    </string-array>
+
+    <!-- resturants done -->
+    <string-array name="title_name_2">
+        <item>MRYANA RESTAURANT</item>
+        <item>TEXAS CHIKEN RESTAURANT
+</item>
+        <item>ALMANQAL RESTAURANT
+</item>
+        <item>ATHENA RESTURANT
+</item>
+        <item>SHINDOKHA REATAURANT
+</item>
+        <item>ABO FARIS RESTAURANT
+</item>
+        <item>AZAIM PALACE RESTAURANT
+</item>
+        <item>NAWROZ PALACE RESTAURANT
+</item>
+        <item>SAFEEN RESTAURANT
+</item>
+        <item>SADEER PALACE RESTURANT
+</item>
+    </string-array>
+    <string-array name="address_2">
+        <item>Duhok - 40M St. - K.R.O St.
+Duhok</item>
+        <item>Duhok - K.R.O St.
+Duhok</item>
+        <item>Duhok - Gshti St. - Opposite Ahmadi Khani Statue
+Duhok</item>
+        <item>Duhok - Behind Oscar Hall for weddings party
+Duhok</item>
+        <item>Duhok - Shindokha St.
+Duhok</item>
+        <item>Duhok -opposite Qaimqamiat
+Duhok</item>
+        <item>Duhok - Main St. - Near Shindokha Kfri
+Duhok</item>
+        <item>Duhok - Main St .
+Duhok</item>
+        <item>Nhadar Street near the junior high Kawa
+Duhok</item>
+        <item>Duhok - Metran St.
+Duhok</item>
+    </string-array>
+    <string-array name="tel_2">
+        <item>964627629869</item>
+        <item>9647501345142</item>
+        <item>964627624747</item>
+        <item>9647508531115</item>
+        <item>9647504559134</item>
+        <item>964662698372</item>
+        <item>9647504268400</item>
+        <item>9647504434205</item>
+        <item>009647504508175</item>
+        <item>9647504608191</item>
+    </string-array>
+    <string-array name="web_2">
+        <item>#</item>
+        <item>http://www.texaschikenme.com</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+    </string-array>
+    <string-array name="desc_2">
+     <item>Services of restaurant :-
+-Western foods  Fastfood
+- Price 15,000 ID
+- Number of chairs :95 chairs </item>
+        <item>Services of restaurant :-
+Fastfood</item>
+        <item>Services of restaurant :-
+Eastern and Kurdish foods
+- Price 10,000 ID
+- Number of chairs :155 chairs </item>
+        <item>Services of restaurant :-
+-Western and Greeks foods
+- Price18,000 ID /22,000 ID
+- Number of chairs :170 chairs </item>
+        <item>Services of restaurant :-
+-Eastern and Western foods  Kurdish Foods
+- Price 18,000 ID / 20,000 ID
+- Number of chairs :180 chairs </item>
+        <item>Services of restaurant :-
+-Eastern and Western foods  kurdish Foods
+- Price 12,000 ID
+- Number of chairs :300 chairs </item>
+        <item>Services of restaurant :-
+-Eastern and Western foods  Turkish Foods Kurdish Foods
+- Price 18,000 ID / 20,000 ID</item>
+        <item>Services of restaurant :-
+-Eastern and Kurdish foods
+- Price12,000 ID
+- Number of chairs :174 chairs </item>
+        <item>Restaurant services: -
+Eastern cuisine and Kurdish
+The price of the meal: 12,000 I.D
+Restaurant capacity: 120 people</item>
+        <item>Services of restaurant :-
+-Turkish and Kurdish foods
+- Price 25,000 ID
+- Number of chairs :270 chairs
+
+
+</item>
+    </string-array>
+    <string-array name="item_name_2">
+        <item>menu from 19$</item>
+        <item>menu from 19$</item>
+        <item>menu from 5$</item>
+        <item>menu from 23$</item>
+        <item>menu from 12$</item>
+        <item>menu from 17$</item>
+        <item>menu from 11$</item>
+        <item>menu from 16$</item>
+        <item>menu from 6$</item>
+        <item>menu from 10$</item>
+    </string-array>
+    <!-- Add places -->
+    <string-array name="title_name_3">
+        <item>SOLAV (OR SILAV) RESORT</item>
+        <item>ASHAWA RESORT</item>
+        <item>AZADI PARK</item>
+        <item>VALLEY AND DUHOK DAM</item>
+        <item>ZAWITA VALLEY</item>
+        <item>GALI QASROK RESORT</item>
+        <item>KASHAN RESORT</item>
+        <item>FOREST BASHQAL</item>
+        <item>GALI ZINTA RESORT</item>
+        <item>KELLYBEDUL</item>
+    </string-array>
+    <string-array name="address_3">
+        <item>Amedi</item>
+        <item>Sarsang</item>
+        <item>DUHOK</item>
+        <item>DUHOK</item>
+        <item>DUHOK</item>
+        <item>DUHOK</item>
+        <item>ZAKHO</item>
+        <item>AKRE</item>
+        <item>AKRE</item>
+        <item>AMEDI</item>
+    </string-array>
+    <string-array name="tel_3">
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+
+
+    </string-array>
+    <string-array name="web_3">
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+
+    </string-array>
+    <string-array name="desc_3">
+        <item>A beautiful resort situated about 4 kilometers to the north east of Amedi. It is located in a dense valley with trees and it distinguishes itself by a spectacular view. Ice-cold water flows down from the mountain into Solav Waterfall. Tourists can find hotels, motels and many other facilities.</item>
+        <item>Ashawa resort is 4 kilometer east of the Sarsang resort on the northern side of Gara Mountain. Tourists flock to the resort to enjoy its many trees and small waterfall and visit the dam that lies between Ashawa and Sarsang resorts. It is a popular place for summer visitors with motels and amenities.</item>
+        <item>Azadi Park is located in the downtown area near the Duhok sports club. It has a restaurant and cafeteria for visitors to enjoy and its green lawns make it an ideal place for picnics.  </item>
+        <item>Duhok Dam is tucked into the valley 2 kilometers north of the city of Duhok. A serene blue lake has been created to supply water to the city and lends a sense of peace and well being to the surroundings. The Chwar Astoon temple is built alongside the water and there is also a large cave nearby that can be reached from the Duhok Valley.</item>
+        <item>Zawita Valley lies on the road towards Swaratuka, Sarsang and Solav, 16 kilometers northeast of Duhok. The valley is filled with trees, which give it a special natural beauty. Recreational facilities such as restaurants, boothsmake the area an ideal place for visitors. </item>
+        <item>It is called by such name in relation to the ancient ruins of the still existing palace. It is located 5 kilometers to the south-east of Atrush sub-district and it is famous for its sulfur-water spring called ka rimav.</item>
+        <item>It is one of the most beautiful resorts on 30 kilometers from Zakho.  km. away from the city centre near the Turkish border. The place has charming views, green valleys, water streams, many springs and walnut trees. The temperature is (25°C) during summertime. It is expected that a tourist hotel, restaurants and kiosks are built for tourists.</item>
+        <item>Forest Bashqal is located in the east district. Many concerts and wedding receptions are held here. </item>
+        <item>This resort is located within Bejel sub-district, at about 12 kilometers from Aqra It is a deep valley between two mountains with river Bresho passing its way through the middle. This valley is surrounded by Sada Mountain from the east and Sarea Keske Mountain from the west. It includes a large number of water springs flowing with water throughout the year. It is one of the beautiful places for tourists and there is a direct paved road from Dinarta sub-district. </item>
+        <item>it is one of the most Beautiful resort in Amedi , Known for Clean Weather and Amazing Nature</item>
+
+    </string-array>
+    <string-array name="item_name_3">
+        <item>open from 15h00 to 02h00</item>
+        <item>open from 13h00 to 04h00</item>
+        <item>open from 13h00 to 02h00</item>
+        <item>open from 09h00 to 01h00</item>
+        <item>open from 00h00 to 24h00</item>
+        <item>open from 19h00 to 00h00</item>
+        <item>open from 17h00 to 03h00</item>
+        <item>open from 14h00 to 00h00</item>
+        <item>open from 17h30 to 02h00</item>
+        <item>open from 11h00 to 02h00</item>
+    </string-array>
+
+
+    <!-- add history -->
+    <string-array name="title_name_4">
+        <item>MARS ALA MONASTERY</item>
+        <item>SCULPTURES KHANS</item>
+        <item>DALAL BRIDGE</item>
+        <item>SULTAN MHANUKHT CHURCH</item>
+        <item>TOMB OF PROPHET NAHUM</item>
+        <item>HLAMTA SCULPTURES CAVE</item>
+        <item>INISHKY CAVE</item>
+        <item>LALESH TEMPLE</item>
+    </string-array>
+    <string-array name="address_4">
+        <item>Duhok</item>
+        <item>Duhok Shikhan</item>
+        <item>Zakho</item>
+        <item>Duhok</item>
+        <item>Duhok Shikhan</item>
+        <item>Duhok zawa mount</item>
+        <item>Duhok inshiky</item>
+        <item>Duhok lalesh</item>
+    </string-array>
+    <string-array name="tel_4">
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+    </string-array>
+    <string-array name="web_4">
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+
+    </string-array>
+    <string-array name="desc_4">
+        <item>Located near the presidency of the University of Duhok
+and is the oldest and largest monastery in the Duhok area.</item>
+        <item>This place is located 13 km north-east of the town of Sheikhan And is famous as the "King Sennacherib resort."
+
+This site is similar to the valley And contains a series of mountains overlooking the fresh water It is noted that there are many statues, sculptures and caves used Bossvhamabid.
+
+And in regards to the sculptures,Can be found in high places,And have accomplished a very artistic way.
+
+That this site is a popular destination for rest and recreation</item>
+        <item>Dalal Bridge is an ancient bridge in the town of Zakho, built on the Khapour River. It is 114m long, 4.7m wide, and 16m high and was built using large river stones. Zakho is also known for its mineral springs, which are thought to have medicinal properties, especially for treating skin diseases.</item>
+        <item>Archaeological and religious shrine in Araden</item>
+        <item>Nahum is known in the Bible as the seventh of the twelve Minor Prophets. He lived in the 7th century BC. There are several versions concerning his place of birth. Some say he comes from the city of Elqosh, in Galilee, but the experts about Assyria assume he comes from Alqosh in Mesopotamia. He only featured in one of his prophecies’ book, the Book of Nahum, but he has a great influence. His work has left a deep mark on Mesopotamian people, especially the Jewish and the Christians, and thus for several reasons. First, the Eternal and he only, speaks directly through the prophet. Second, the story relates the destruction of the city of Nineveh, the Assyrian capital, largest city of the largest kingdom in those days, « Woe to the bloody city, all lies, full of plunder, whose looting never stops Till everyone who sees you runs from you, saying, “Nineveh is destroyed; who can pity her? Where can one find any to console her?
+
+Besides, the Christians from Mesopotamia come mostly from the local Jewish communities and they do keep this very strong link with their roots and traditions. Finally, the chaos that struck once again Mosul, the Nineveh plain and the whole part of Mesopotamia rings back to the ancient prophecy, as “The Lord is slow to anger, yet great in power, and the Lord never leaves the guilty unpunished.The Lord is good, a refuge on the day of distress; He takes care of those who have recourse to him.</item>
+        <item>Archaeological cave is located 7 km southwest of the city of Dohuk Opposite the village Kfrcka.
+
+This archaeological site is composed of four parts Where engraved images dating organisms Both human and animal According to technical way reflect the victory in the war</item>
+        <item> Inishky cave  is located northeast of the city of Dohuk,Between the resorts Sarsank and Sulaf,and is 9 km from the resort Sulaf.
+
+The construction of a casino and a nice restaurant inside the cave for the convenience of tourists.
+There are close to a beautiful waterfall cave and the construction of places to rest in the interview him.</item>
+        <item>Special Yazidis temple,Located in the beautiful valley,Bumpy relatively Adorned with trees and springs.
+
+The temple is about 12 km northwest spend Sheikhan, Ain Sifni, in the province of Duhok
+
+One of the holiest temples have since they reside annual gala ceremony, "JAMA."
+
+Frequented by Kurds and Yazidis living outside the province to commemorate the decrees,While flock Yazidis residing within the region throughout the year to visit him in.
+
+It must be noted that the lalesh temple One of the most prominent global temples.</item>
+    </string-array>
+    <string-array name="item_name_4">
+        <item>Religion area</item>
+        <item>History area</item>
+        <item>History area</item>
+        <item>Religion area</item>
+        <item>Religion area</item>
+        <item>History area</item>
+        <item>History area</item>
+        <item>Religion area</item>
+    </string-array>
+
+    <!-- lawaygare -->
+    <string-array name="title_name_5">
+        <item>ZERI PARK</item>
+        <item>MAZI COMPLEX
+</item>
+        <item>GORDON</item>
+        <item>PABLO CHAIRLIFTS
+</item>
+        <item>Family Mall</item>
+
+    </string-array>
+    <string-array name="address_5">
+        <item>
+Duhok - General Exhibition Road
+Duhok</item>
+<item>Duhok</item>
+        <item>Duhok</item>
+        <item>Duhok</item>
+        <item>duhok</item>
+    </string-array>
+    <string-array name="tel_5">
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+        <item>NA</item>
+
+    </string-array>
+    <string-array name="web_5">
+<item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+        <item>#</item>
+    </string-array>
+    <string-array name="desc_5">
+        <item>Zeri Park contains a restaurant and various recreational games. Zeri park is situated next to the Zeri Appartments.</item>
+        <item>Mazi Complex houses a large supermarket, a hotel, a motel, a fun park and swimming pools. Many tourists visit Mazi Complex in the spring and summer to enjoy its wide variety of facilities.</item>
+        <item>Gordon is located in the province of Dohuk and has an indoor swimming pool.</item>
+        <item>This tourist complex is located northeast of the city of Duhok at a distance of 11 kilometers on the main road north of Dohuk. It is within an area that is characterized by fresh air and it has many motels. At the foot of the mountain there is a custom for relaxation and recreation.</item>
+        <item>The mall include 114 shops and brands. The mall are is 102.000 M2 including Carrefour hyper market, cafes and restaurants and entertainment center contains video games, 8 movie theaters and bowling alley. Family mall has more than one entrance for making visitors transportation between Family fun, Carrefour and Family mall easier. Outdoor cafes views is the stunning city of Duhok from one side and Family fun amusement park from the other side. The mall is designed and constructed by a professional engineering tram according to international standards. The is surrounded with parks where visitors are attracted by family fun amusement park. The mall is located at the highway road which is easily accessible from all main road.</item>
+    </string-array>
+    <string-array name="item_name_5">
+       <item>Mall</item>
+        <item>Mall and hotel</item>
+        <item>Swimming Pool</item>
+        <item>CHAIRLIFTS</item>
+        <item>Mall</item>
+    </string-array>
+
+</resources>
